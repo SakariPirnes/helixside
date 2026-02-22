@@ -1,6 +1,14 @@
 # HelixSide
 
-A python implementation of the method constructed in BSc thesis:
+"Understanding the relative orientation of protein secondary structure elements is crucial for elucidating their tertiary organization, function, and interactions. Here, we introduce HelixSide, a comprehensive method for systematically quantifying geometrical metrics of helical secondary structures, including widely used measures, such as tilt and kink angles. Additionally, to characterize the orientation of secondary structure motifs relative to each other or to the helical axis, we introduce a new quantity, the side angle. HelixSide computes these metrics at both single-residue and whole-protein levels, revealing local and global conformational features of the system. We demonstrate the method’s utility through case studies of two well-characterized single-pass transmembrane proteins: insulin receptor and glycophorin A. These analyses showcase HelixSide’s ability to capture tertiary structural characteristics and compare conformational states. HelixSide is open source and available on GitHub at https://github.com/SakariPirnes/helixside. It is applicable to experimental structures, theoretical models, and molecular dynamics trajectories of membrane and soluble proteins, and can be used as a featurization tool for machine learning." [[1]](#1).
+
+
+## References 
+
+> <a id="1">[1]</a>
+> Pirnes, S., Hägg, V., Girych, M., Vattulainen, I., & Enkavi, G. (2026). HelixSide: A Comprehensive Method for Local and Global Orientational Analysis of Proteins. Journal of Chemical Information and Modeling, 66(3), 1769–1780. https://doi.org/10.1021/acs.jcim.5c02426
+
+The method was originally constructed in the following BSc thesis:
 
 [Analytical method for calculating
 geometrical metrics for protein structures](https://github.com/SakariPirnes/helixside/blob/main/Pirnes_Sakari_BSc_thesis.pdf).
