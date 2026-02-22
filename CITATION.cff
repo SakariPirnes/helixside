@@ -5,6 +5,31 @@ authors:
   given-names: "Sakari"
   orcid: " https://orcid.org/0000-0002-2427-1134 "
 title: "HelixSide"
-version: 0.0.1
+version: 0.0.2
 date-released: 2022-01-03
 url: "https://github.com/SakariPirnes/helixside"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Pirnes"
+    given-names: "Sakari"
+    orcid: " https://orcid.org/0000-0002-2427-1134 "
+  - family-names: "Hägg"
+    given-names: "Veera"
+    orcid: "https://orcid.org/0009-0000-3350-7295"
+  - family-names: "Girych"
+    given-names: "Mykhailo"
+  - family-names: "Vattulainen"
+    given-names: "Ilpo"
+    orcid: "https://orcid.org/0000-0001-7408-3214"
+  - family-names: "Enkavi"
+    given-names: "Giray"
+    orcid: "https://orcid.org/0000-0001-5033-8649"
+  doi: "10.1021/acs.jcim.5c02426"
+  journal: "Journal of Chemical Information and Modeling"
+  start: 1769 # First page number
+  end: 1780 # Last page number
+  title: "HelixSide: A Comprehensive Method for Local and Global Orientational Analysis of Proteins"
+  issue: 3
+  volume: 66 
+  year: 2026
