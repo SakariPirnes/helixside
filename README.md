@@ -9,6 +9,7 @@
 > Pirnes, S., Hägg, V., Girych, M., Vattulainen, I., & Enkavi, G. (2026). HelixSide: A Comprehensive Method for Local and Global Orientational Analysis of Proteins. Journal of Chemical Information and Modeling, 66(3), 1769–1780. https://doi.org/10.1021/acs.jcim.5c02426
 
 The method was originally constructed in the following BSc thesis:
+
 [Analytical method for calculating
 geometrical metrics for protein structures](https://github.com/SakariPirnes/helixside/blob/main/Pirnes_Sakari_BSc_thesis.pdf).
 > **_NOTE:_** In the BSc thesis the quantities (local) side angle and side vector are called (local) rotation angle and rotation vector, respectively. Also the package is called with its old name, HelixTiltRot. The naming convention was updated on 10th August 2025.
